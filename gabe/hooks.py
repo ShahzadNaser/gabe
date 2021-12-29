@@ -15,7 +15,7 @@ app_license = "MIT"
 app_logo_url = '/assets/gabe/images/logo.png'
 
 website_context = {
-	"favicon": 	"/assets/gabe/images/small.png",
+	"favicon": 	"/assets/gabe/images/logo.png",
 	"splash_image": "/assets/gabe/images/logo.png"
 }
 
