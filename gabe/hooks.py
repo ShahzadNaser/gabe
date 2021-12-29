@@ -12,6 +12,15 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+app_logo_url = '/assets/gabe/images/logo.png'
+
+website_context = {
+	"favicon": 	"/assets/gabe/gabe/small.png",
+	"splash_image": "/assets/gabe/images/logo.png"
+}
+
+app_include_js = "/assets/gabe/js/gabe.js"
+web_include_js = "/assets/gabe/js/gabe.js"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/gabe/css/gabe.css"
 # app_include_js = "/assets/gabe/js/gabe.js"
