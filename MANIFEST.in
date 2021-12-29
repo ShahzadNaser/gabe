@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gabe *.css
+recursive-include gabe *.csv
+recursive-include gabe *.html
+recursive-include gabe *.ico
+recursive-include gabe *.js
+recursive-include gabe *.json
+recursive-include gabe *.md
+recursive-include gabe *.png
+recursive-include gabe *.py
+recursive-include gabe *.svg
+recursive-include gabe *.txt
+recursive-exclude gabe *.pyc
